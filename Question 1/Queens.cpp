@@ -1,3 +1,8 @@
+/* 
+   The N-Queens problem is a fascinating puzzle where the goal is to place N-Queens on an N*N chessboard such that no two queens can be in the
+   same row, same column or in a same diagonal.
+*/
+
 #include<iostream>
 #include<vector>
 using namespace std;
